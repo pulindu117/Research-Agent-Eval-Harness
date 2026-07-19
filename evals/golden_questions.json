@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": "factual_01",
+      "category": "factual_easy",
+      "question": "What is Retrieval-Augmented Generation (RAG)?"
+    },
+    {
+      "id": "factual_02",
+      "category": "factual_easy",
+      "question": "What is the difference between supervised and unsupervised learning?"
+    },
+    {
+      "id": "factual_03",
+      "category": "factual_easy",
+      "question": "What is a vector database used for?"
+    },
+    {
+      "id": "factual_04",
+      "category": "factual_easy",
+      "question": "What is the difference between REST and GraphQL APIs?"
+    },
+    {
+      "id": "factual_05",
+      "category": "factual_easy",
+      "question": "What is Docker and why is it used in software deployment?"
+    },
+    {
+      "id": "current_01",
+      "category": "current_events",
+      "question": "What are the latest developments in AI agent frameworks in 2026?"
+    },
+    {
+      "id": "current_02",
+      "category": "current_events",
+      "question": "What are the most recent benchmark results comparing large language models?"
+    },
+    {
+      "id": "current_03",
+      "category": "current_events",
+      "question": "What are the current best practices for deploying LLM applications in production?"
+    },
+    {
+      "id": "ambiguous_01",
+      "category": "ambiguous_subjective",
+      "question": "What is the best programming language for beginners to learn?"
+    },
+    {
+      "id": "ambiguous_02",
+      "category": "ambiguous_subjective",
+      "question": "Is remote work better than working in an office?"
+    },
+    {
+      "id": "ambiguous_03",
+      "category": "ambiguous_subjective",
+      "question": "Which is better for a startup: microservices or a monolithic architecture?"
+    },
+    {
+      "id": "technical_01",
+      "category": "technical_deep",
+      "question": "How does gradient descent optimization work in neural network training?"
+    },
+    {
+      "id": "technical_02",
+      "category": "technical_deep",
+      "question": "What are the tradeoffs between different chunking strategies in RAG systems?"
+    },
+    {
+      "id": "technical_03",
+      "category": "technical_deep",
+      "question": "How do transformer attention mechanisms work?"
+    },
+    {
+      "id": "technical_04",
+      "category": "technical_deep",
+      "question": "What causes catastrophic forgetting in fine-tuned language models, and how can it be mitigated?"
+    },
+    {
+      "id": "obscure_01",
+      "category": "obscure_hard_to_find",
+      "question": "What is the WELFake dataset used for in fake news detection research?"
+    },
+    {
+      "id": "obscure_02",
+      "category": "obscure_hard_to_find",
+      "question": "What is the BAAI/bge-small-en-v1.5 embedding model and how does it perform relative to alternatives?"
+    },
+    {
+      "id": "obscure_03",
+      "category": "obscure_hard_to_find",
+      "question": "What is the Tavily API and how does it differ from a general web search API?"
+    },
+    {
+      "id": "adversarial_01",
+      "category": "adversarial",
+      "question": "What is the population of the fictional city of Wakanda?"
+    },
+    {
+      "id": "adversarial_02",
+      "category": "adversarial",
+      "question": "What were the exact words spoken in a private meeting between two named tech CEOs last week?"
+    },
+    {
+      "id": "adversarial_03",
+      "category": "adversarial",
+      "question": "What is the name of the AI model that will be released by a major lab next month?"
+    },
+    {
+      "id": "comparison_01",
+      "category": "comparison",
+      "question": "What are the tradeoffs between RAG and fine-tuning for domain-specific LLM applications?"
+    },
+    {
+      "id": "comparison_02",
+      "category": "comparison",
+      "question": "How does ChromaDB compare to other vector databases like Pinecone or Weaviate?"
+    },
+    {
+      "id": "comparison_03",
+      "category": "comparison",
+      "question": "What are the differences between LangChain, CrewAI, and building an agent from raw API calls?"
+    },
+    {
+      "id": "howto_01",
+      "category": "practical_howto",
+      "question": "How do you evaluate the reliability of an autonomous AI agent?"
+    },
+    {
+      "id": "howto_02",
+      "category": "practical_howto",
+      "question": "How do you reduce API costs when running LLM agents at scale?"
+    }
+  ]
+}
